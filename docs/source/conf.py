@@ -55,10 +55,10 @@ html_title = "Advent Calendar 2024"
 #
 # html_theme = 'alabaster'
 html_theme = 'sphinx_book_theme'
-html_logo = 'logo.png'
+html_logo = 'logo.jpg'
 
 html_theme_options = {
-    "repository_url": "https://github.com/quantgirluk/advent-calendar-2023",
+    "repository_url": "https://github.com/quantgirluk/advent-calendar-2024",
     "use_repository_button": True,
     # "use_source_button": True,
 }
