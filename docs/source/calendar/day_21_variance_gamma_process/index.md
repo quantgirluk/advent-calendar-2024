@@ -50,4 +50,4 @@ There is no [diffusion](https://en.wikipedia.org/wiki/Diffusion) component in 
 
 - Madan, D. and Milne, F. (1991) Option Pricing with VG Martingale Components. Mathematical Finance, 1, 39-55. http://dx.doi.org/10.1111/j.1467-9965.1991.tb00018.x
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

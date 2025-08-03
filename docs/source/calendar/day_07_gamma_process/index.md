@@ -54,4 +54,4 @@ $$X(t + h; \mu, \nu)− X(t; \mu, \nu) \sim G\left( \frac{\mu^2 h}{\nu}, \frac{\
 
 - J.M. van Noortwijk, "A survey of the application of gamma processes in maintenance", Reliability Engineering & System Safety, Volume 94, Issue 1, 2009, Pages 2-21, ISSN 0951-8320, https://doi.org/10.1016/j.ress.2007.03.019.
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

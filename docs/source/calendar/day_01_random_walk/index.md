@@ -75,4 +75,4 @@ is called [random walk](https://en.wikipedia.org/wiki/Random_walk), or more prec
 
 - Brownian motion can be seen as the limit of a Random Walk when the step size and time intervals between steps become infinitely small. This connection is formalised in the result known as [_Donsker's invariance principle_](https://quantgirl.blog/donsker-random-walk/) or the Functional Central Limit Theorem.
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/)✨

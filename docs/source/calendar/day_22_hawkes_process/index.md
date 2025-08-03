@@ -64,4 +64,4 @@ One simple and quite popular excitation function is  $\phi(t) = \alpha \exp(-\b
 
 - Carlsson, J.; Foo, M. C.; Lee, H. H.; and Shek, H. "High Frequency Trade Prediction with Bivariate Hawkes Process." 2007. [http://users.iems.northwestern.edu/~armbruster/2007msande444/report1b.pdf](http://users.iems.northwestern.edu/~armbruster/2007msande444/report1b.pdf).
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

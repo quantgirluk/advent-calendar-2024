@@ -59,4 +59,4 @@ $$P\left(N(t)= n| \Lambda=\lambda\right) = \frac{1}{n!} e^{-\lambda t} (\lambda 
 
 - D. R. Cox, Some Statistical Methods Connected with Series of Events, _Journal of the Royal Statistical Society: Series B (Methodological)_, Volume 17, Issue 2, July 1955, Pages 129–157, [https://doi.org/10.1111/j.2517-6161.1955.tb00188.x](https://doi.org/10.1111/j.2517-6161.1955.tb00188.x)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

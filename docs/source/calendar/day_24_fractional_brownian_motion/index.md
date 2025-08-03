@@ -57,4 +57,4 @@ where _H_ is a real number in (0, 1), called the [Hurst index](https://en.wi
 
 - Sainty, P. (1992), "Construction of a complex-valued fractional Brownian motion of order _N_", _[Journal of Mathematical Physics](https://en.wikipedia.org/wiki/Journal_of_Mathematical_Physics)_, **33** (9): 3128, [Bibcode](https://en.wikipedia.org/wiki/Bibcode_\(identifier\)):[1992JMP....33.3128S](https://ui.adsabs.harvard.edu/abs/1992JMP....33.3128S), [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\)):[10.1063/1.529976](https://doi.org/10.1063%2F1.529976)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

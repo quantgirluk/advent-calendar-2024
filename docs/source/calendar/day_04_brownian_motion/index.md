@@ -67,4 +67,4 @@ A copy of the original books is available [online](https://archive.org/details/i
 
 - [Brownian Motion Notebook](https://quantgirluk.github.io/Understanding-Quantitative-Finance/brownian_motion.html) (part of my series of notes exploring concepts with Python)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

@@ -53,4 +53,4 @@ is a Brownian excursion.
 
 - Kai Lai Chung. "Maxima in Brownian excursions." Bull. Amer. Math. Soc. 81 (4) 742 - 745, July 1975.
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

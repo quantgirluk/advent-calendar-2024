@@ -55,4 +55,4 @@ That is, given the last time before 1 that a standard Brownian motion visits ze
 
 - Richard T. Durrett. Donald L. Iglehart. Douglas R. Miller. "Weak Convergence to Brownian Meander and Brownian Excursion." Ann. Probab. 5 (1) 117 - 129, February, 1977.https://doi.org/10.1214/aop/1176995895
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

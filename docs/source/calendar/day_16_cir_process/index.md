@@ -61,4 +61,4 @@ with initial condition $X\_0 =x\_0\in\mathbb{R}$, and where $W\_t$ is a standard
 
 - Anja Göing-Jaeschke, Marc Yor "[A survey and some generalizations of Bessel processes](https://projecteuclid.org/journals/bernoulli/volume-9/issue-2/A-survey-and-some-generalizations-of-Bessel-processes/10.3150/bj/1068128980.full)," Bernoulli, Bernoulli 9(2), 313-349, (April 2003)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

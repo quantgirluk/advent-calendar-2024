@@ -62,4 +62,4 @@ The Brownian bridge is useful for modelling a system that starts at some given l
 
 - Junyi Lin, Xiaoqun Wang, New Brownian bridge construction in quasi-Monte Carlo methods for computational finance, Journal of Complexity, Volume 24, Issue 2, 2008, Pages 109-133, ISSN 0885-064X, https://doi.org/10.1016/j.jco.2007.06.001
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

@@ -66,4 +66,4 @@ with initial condition $X\_0 =x\_0\in\mathbb{R}$; where $W\_t$ is a standard Bro
 
 - Y.L. Hsu, T.I. Lin, C.F. Lee, [Constant elasticity of variance (CEV) option pricing model: Integration and detailed derivation, Mathematics and Computers in Simulation](https://www.sciencedirect.com/science/article/pii/S0378475407002601), Volume 79, Issue 1, 2008, Pages 60-71, ISSN 0378-4754, https://doi.org/10.1016/j.matcom.2007.09.012.
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

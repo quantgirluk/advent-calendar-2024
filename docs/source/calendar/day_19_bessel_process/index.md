@@ -63,4 +63,4 @@ where $I\_{\nu}$ is the usual [modified Bessel function](https://en.wikipedia.or
 
 - Anja Göing-Jaeschke. Marc Yor. "A survey and some generalizations of Bessel processes." Bernoulli 9 (2)313 - 349, April 2003. https://doi.org/10.3150/bj/1068128980
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

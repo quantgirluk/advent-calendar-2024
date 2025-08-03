@@ -77,4 +77,4 @@ and consequently $X\_t$ follows a [Log-normal distribution](https://en.wikipedia
 
 - Stojkoski, V.; Sandev, T.; Basnarkov, L.; Kocarev, L.; Metzler, R. Generalised Geometric Brownian Motion: Theory and Applications to Option Pricing. _Entropy_ **2020**, _22_, 1432. https://doi.org/10.3390/e22121432
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

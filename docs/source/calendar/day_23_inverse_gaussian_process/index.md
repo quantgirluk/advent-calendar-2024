@@ -49,4 +49,4 @@ An Inverse Gaussian process is a stochastic process $\{X(t),t\geq 0\}$ where:
 
 - Wang, X., & Xu, D. (2010). An Inverse Gaussian Process Model for Degradation Data. _Technometrics_, _52_(2), 188–197. https://doi.org/10.1198/TECH.2009.08197
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

@@ -50,7 +50,7 @@ which means that the random variable $N(a,b\]$ follows a Poisson distribution w
 
     - **Astronomy:** Modeling arrival times of gamma-ray bursts or star formations.
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨
 
 ![](images/pp04-1.png)
 

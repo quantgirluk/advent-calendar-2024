@@ -69,4 +69,4 @@ $$ \frac{\partial f}{\partial t} = \theta \frac{\partial}{\partial x} (x f) + \f
 
 - Patrick Cheridito. Hideyuki Kawaguchi. Makoto Maejima. "Fractional Ornstein-Uhlenbeck processes."Electron. J. Probab. 8 1 - 14, 2003. https://doi.org/10.1214/EJP.v8-125
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

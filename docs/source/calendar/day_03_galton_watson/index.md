@@ -71,4 +71,4 @@ British mathematician [H. W. Watson](https://en.wikipedia.org/wiki/Henry_William
 
 - [Families, Farms, and Fission](https://www.lancaster.ac.uk/stor-i-student-sites/matthew-speers/2022/02/01/families-farms-and-fission/)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

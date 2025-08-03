@@ -50,4 +50,4 @@ with initial condition $X\_0 =x\_0in\mathbb{R}$; where $W\_t$ is a standard Brow
 
 - CHAN, K.C., KAROLYI, G.A., LONGSTAFF, F.A. and SANDERS, A.B. (1992), An Empirical Comparison of Alternative Models of the Short-Term Interest Rate. The Journal of Finance, 47: 1209-1227. [https://doi.org/10.1111/j.1540-6261.1992.tb04011.x](https://doi.org/10.1111/j.1540-6261.1992.tb04011.x)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

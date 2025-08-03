@@ -73,4 +73,4 @@ This expression implies that for each $t>0$, the random variable $X\_t$ follows 
 
 - Orlando, Giuseppe; Mininni, Rosa Maria; Bufalo, Michele (July 2020). ["Forecasting interest rates through Vasicek and CIR models: A partitioning approach"](https://onlinelibrary.wiley.com/doi/10.1002/for.2642). _Journal of Forecasting_. **39** (4): 569–579. [arXiv](https://en.wikipedia.org/wiki/ArXiv_\(identifier\)):[1901.02246](https://arxiv.org/abs/1901.02246)
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨

@@ -92,4 +92,4 @@ $$Pr(N(t) = n) = \frac{(\lambda t)^n}{n!} e^{-\lambda t}$$
     </figure>
 
 
-P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirl.blog/advent-calendar-2023/) ✨
+P.s. If you are curious about probability distributions visit the [Advent Calendar 2023](https://quantgirluk.github.io/advent-calendar-2023/) ✨
